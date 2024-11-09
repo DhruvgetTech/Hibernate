@@ -4,18 +4,18 @@ This is a Student Management System built using Hibernate ORM. The system allows
 
 **Features :**
 
-a)Add a new student: Allows adding a new student record to the database.
-b)Update an existing student: Allows updating an existing student record by modifying details like name, age, and course.
-c)Delete an existing student: Allows deleting a student record from the database.
-d)View an existing student: Allows retrieving and displaying a specific student's details.
+                      a)Add a new student: Allows adding a new student record to the database.
+                       b)Update an existing student: Allows updating an existing student record by modifying details like name, age, and course.
+                       c)Delete an existing student: Allows deleting a student record from the database.
+                        d)View an existing student: Allows retrieving and displaying a specific student's details.
 
-**Prerequisites :**
-Before running the project, ensure you have the following software installed:
-Java 8+
+              **Prerequisites :**
+                    Before running the project, ensure you have the following software installed:
+                                                                                                                                                      Java 8+
 Maven (for dependency management and building the project)
-Hibernate (configured for ORM operations)
+                                                                                                                     Hibernate (configured for ORM operations)
 MySQL or any other supported database (configured for Hibernate)
-IDE (like IntelliJ IDEA, Eclipse, etc.)
+                                                                                                                     IDE (like IntelliJ IDEA, Eclipse, etc.)
 
 **Setup**
 1.Clone the Repository your local machine using Git:
