@@ -13,6 +13,7 @@ This is a Student Management System built using Hibernate ORM. The system allows
  d)View an existing student: Allows retrieving and displaying a specific student's details.
 
  **Prerequisites :**
+ 
 Before running the project, ensure you have the following software installed:Java 8+
 
 Maven (for dependency management and building the project).
@@ -24,6 +25,7 @@ MySQL or any other supported database (configured for Hibernate).
 IDE (like IntelliJ IDEA, Eclipse, etc.).
 
 **Setup**
+
 1.Clone the Repository your local machine using Git:
 git clone https://github.com/yourusername/student-management-system.git
 
@@ -40,6 +42,7 @@ Make sure the Student class is properly annotated to work with Hibernate.
 You can run the application by invoking the main class, which should contain the logic for adding, updating, deleting, and viewing students
 
 **Usage**
+
 Once the setup is complete, run the Main class, and the application will perform the following operations based on your input:
 
 a)Add a new student
